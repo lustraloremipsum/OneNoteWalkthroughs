@@ -1,5 +1,5 @@
 # OneNote Walkthroughs
-These terse 'walkthroughs' provide enough information to complete a CTF without the rhetoric.
+These terse 'walkthroughs' provide enough information to complete a CTF without all of the rhetoric.
 
 - CTF Link in the description
 - No visible flags
