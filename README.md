@@ -12,5 +12,5 @@ Conduct an aggressive scan against identified ports only.
 ```
 export IP=x.x.x.x
 sudo nmap -sS -T4 $IP
-sudo nmap -A -px,x,x,x $IP
+sudo nmap -A -px,x,x,x --script=*vuln* $IP
 ```
